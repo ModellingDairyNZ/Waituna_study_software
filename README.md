@@ -16,7 +16,7 @@ R code for processing results:
 Python code for guiding the Optimizer:
   .py files
   
-.bat and .ini files for automated running of the Optimizer
+.bat and .ini files for automating the Optimizer
 
 Examples of output files with data for individual farms:
   abbreviations for files are:
