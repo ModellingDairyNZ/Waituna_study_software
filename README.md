@@ -1,5 +1,6 @@
 # Waituna_study_software
-Data and software used by the DairyNZ and Deltares team for the Waituna catchment-lagoon optimisation study.
+Data and software used by the DairyNZ and Deltares team for the Waituna catchment-lagoon optimisation study. It is not expected that the reader will be able to replicate the results presented in the paper. Not all the input files are shared on this repo. Some of the input is confidential because it can be linked back to individual farms. The main value is probably in the GAMS code and the other bits of code showing the work flow. 
+
 In this repo the reader will find the following files:
 
 Example of an input file:
